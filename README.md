@@ -1,6 +1,6 @@
 # Vite IPFS Hosting
 
-### How to deploy
+### How to Deploy
 
 1. Build
 
@@ -13,7 +13,7 @@ $ npm run build
 
 Upload the build output (`./dist`) to IPFS
 
-### Mainly two points
+### Mainly Two Points
 
 1. Using hash-router
 
