@@ -40,3 +40,7 @@ So that after build is completed, the `resource`/`asset` file uses a relative pa
   </body>
 </html>
 ```
+
+### **_Note_**
+
+We should put the image files to `public` directory, and use a relative path as source like `<img src="images/react.svg" />`
