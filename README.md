@@ -41,6 +41,9 @@ So that after build is completed, the `resource`/`asset` file uses a relative pa
 </html>
 ```
 
-### **_Note_**
+> **_Note_**: We should put the image files to `public` directory, and use a relative path as source like `<img src="images/react.svg" />`
 
-We should put the image files to `public` directory, and use a relative path as source like `<img src="images/react.svg" />`
+### Friendly Links
+
+- [IPFS](https://ipfs.tech/)
+- [Fleek](https://fleek.xyz/)
